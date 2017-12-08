@@ -1,3 +1,0 @@
-from kNN import *
-
-handwritingClassTest()
